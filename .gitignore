@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Especificos
+analise-historico-ppgi/node_modules/
+analise-historico-ppgi/pdf/
+analise-historico-ppgi/text/

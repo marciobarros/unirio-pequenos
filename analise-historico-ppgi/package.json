@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdf2json": "^3.1.4",
+    "pdfreader": "^3.0.4"
+  }
+}
